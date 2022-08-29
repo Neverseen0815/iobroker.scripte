@@ -96,3 +96,4 @@ on({ id: was_klaudia_hoert_ID, change: "ne" }, function (obj) {
             setState(klaudia_soll_sprechen_ID, "kannst du deine Anwort nochmal wiederholen?");
         } */
     }
+});
